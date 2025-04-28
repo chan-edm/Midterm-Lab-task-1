@@ -1,1 +1,28 @@
 # Midterm-Lab-task-1
+# Midterm Lab Task 1 - *** Data cleaning and preparation using excel ***
+The data cleaning process involves several steps to ensure threat data is accurate, complete, and ready for analysis.
+## Step 1;
+- Load raw files.
+- format column.
+- Remove null colums.
+- Trim extra spaces.
+- Identify and delete duplicate records to avoid rebundancy.
+- correct spelling mistakes, typings, and inconsistent naming conventions.
+- ensure numeric, categorical, and date/time, currency are in the correct format.
+
+## step 2;
+- perform 1NF
+- Ensure each column has atomic values
+- each row must have a unique identifier (Primary key), and add if needed.
+- perform table split using 2NF.
+- Mapped the normalized table on a physical data model.
+
+## here's the screenshot of my output before i started data cleaning
+![image alt] https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(1).png
+
+## sample picture of my output after i started data cleaning
+![image alt] https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(2).png
+
+
+## Here's the Physical data Model
+![image alt] https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(3).png
