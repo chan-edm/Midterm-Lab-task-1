@@ -1,5 +1,6 @@
 # Midterm-Lab-task-1
-# Midterm Lab Task 1 - *** Data cleaning and preparation using excel ***
+# Midterm Lab Task 1 
+*** Data cleaning and preparation using excel ***
 The data cleaning process involves several steps to ensure threat data is accurate, complete, and ready for analysis.
 ## Step 1;
 - Load raw files.
