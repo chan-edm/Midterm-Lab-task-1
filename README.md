@@ -22,8 +22,7 @@ The data cleaning process involves several steps to ensure threat data is accura
 ![Image](https://github.com/user-attachments/assets/2b46d8e7-26db-4294-a46e-ff147f5e15bd)
 
 ## sample picture of my output after i started data cleaning
-![image alt](https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(2).png)
-
+![Image](https://github.com/user-attachments/assets/2265027f-f163-4471-9054-2694371a4f16)
 
 ## Here's the Physical data Model
 ![image alt](https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(3).png)
