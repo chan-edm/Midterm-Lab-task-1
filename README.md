@@ -19,7 +19,7 @@ The data cleaning process involves several steps to ensure threat data is accura
 - Mapped the normalized table on a physical data model.
 
 ## here's the screenshot of my output before i started data cleaning
-![image alt](https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(1).png)
+![Image](https://github.com/user-attachments/assets/2b46d8e7-26db-4294-a46e-ff147f5e15bd)
 
 ## sample picture of my output after i started data cleaning
 ![image alt](https://github.com/chan-edm/README/blob/main/Images/Screenshot%20(2).png)
