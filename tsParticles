@@ -79,3 +79,11 @@
   box-shadow: 0 0 15px #00cc7a;
   transform: scale(1.05);
 }
+section {
+  background: url('your-image-url.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 255, 153, 0.1);
+}
+
