@@ -1,5 +1,4 @@
-# Midterm-Lab-task-1
-# Midterm Lab Task 1 
+# Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
 *** Data cleaning and preparation using excel ***
 The data cleaning process involves several steps to ensure threat data is accurate, complete, and ready for analysis.
 ## Step 1;
@@ -27,4 +26,5 @@ The data cleaning process involves several steps to ensure threat data is accura
 ## Here's the Physical data Model
 ![Image](https://github.com/user-attachments/assets/98f5680d-0dfa-4e86-8188-c53a60f56101)
 
-[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)
+[BACK TO PORTFOLIO](https://chan-edm.github.io/README/)             [CONTINUE TO LEARN](http://chan-edm.github.io/Midterm-lab-task-2/)
+                                                                    
