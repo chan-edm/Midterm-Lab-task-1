@@ -28,7 +28,7 @@
   <p>Physical data model:</p>
   <img src="https://github.com/user-attachments/assets/98f5680d-0dfa-4e86-8188-c53a60f56101" alt="Physical Data Model">
   <div>
-    <a href="https://chan-edm.github.io/README/" class="btn">BACK TO PORTFOLIO</a>
-    <a href="http://chan-edm.github.io/Midterm-lab-task-2/" class="btn">CONTINUE TO LEARN</a>
+  <a href="http://chan-edm.github.io/Midterm-lab-task-2/" class="button">Continue to Learn</a>
+<a href="https://chan-edm.github.io/README/" class="button">Back to Portfolio</a>
   </div>
 </section>
